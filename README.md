@@ -1,7 +1,7 @@
-Role Name
+install_nginx
 =========
 
-A brief description of the role goes here.
+Permet d'installer un serveur nginx sur un systeme ubuntu 16+.
 
 Requirements
 ------------
