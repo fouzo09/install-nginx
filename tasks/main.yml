@@ -1,0 +1,11 @@
+---
+# tasks file for install_nginx
+- name: "Installation de nginx"
+  apt:
+    name: nginx
+    state: latest
+- name: "Demarrer le serveur nginx"
+  service:
+    name: nginx
+    state: started
+    enabled: yes
