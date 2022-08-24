@@ -18,7 +18,7 @@ Dependencies
 
 A list of other roles hosted on Galaxy should go here, plus any details in regards to parameters that may need to be set for other roles, or variables that are used from other roles. -->
 
-Example Playbook
+Exemple d'utilisation
 ----------------
 
 Pour utiliser ce role dans un playbook, vous proceder de la manire suivante:
@@ -32,7 +32,11 @@ License
 
 BSD
 
-Author Information
+Information de l'auteur
 ------------------
 
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+Mafouz DIALLO
+Développeur Full stack
+dev.mafouzdiallo@gmail.com
+
+![alt text](https://i0.wp.com/www.sfdcamplified.com/wp-content/uploads/2019/04/linkedin-logo-copy.png)
