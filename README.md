@@ -32,11 +32,7 @@ License
 
 BSD
 
-Information de l'auteur
+Auteur
 ------------------
 
 Mafouz DIALLO
-Développeur Full stack
-dev.mafouzdiallo@gmail.com
-
-![alt text](https://i0.wp.com/www.sfdcamplified.com/wp-content/uploads/2019/04/linkedin-logo-copy.png)
